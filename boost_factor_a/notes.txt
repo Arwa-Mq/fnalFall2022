@@ -1,0 +1,7 @@
+# I creat a venv to loade the missing packge (cffi) and build the cluster_toolkit 
+(base) aa3044@mps030673 cluster_toolkit % pip install cffi
+Requirement already satisfied: cffi in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (1.17.1)
+Requirement already satisfied: pycparser in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from cffi) (2.22)
+(base) aa3044@mps030673 cluster_toolkit % /Users/aa3044/Documents/GitHub/fnalFall2022/.venv/bin/python -m pip install cffi
+Requirement already satisfied: cffi in /Users/aa3044/Documents/GitHub/fnalFall2022/.venv/lib/python3.9/site-packages (1.17.1)
+Requirement already satisfied: pycparser in /Users/aa3044/Documents/GitHub/fnalFall2022/.venv/lib/python3.9/site-packages (from cffi) (2.22)
